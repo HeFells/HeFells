@@ -1,8 +1,18 @@
+## 📊 Métricas em tempo real (ao vivo)
 
-# HeFells / HeFells
+A HeFells mostra:
+- Requisições por minuto
+- Latência média
+- Modelo mais usado
+- Logs do sistema
 
-![GitHub repo size](https://img.shields.io/github/repo-size/HeFells/HeFells)
-![GitHub stars](https://img.shields.io/github/stars/HeFells/HeFells?style=social)
+👉 **Teste você mesmo:** acesse o console e veja os números mudando em tempo real.
+
+
+# HeFells - Hub Curl 🌀
+
+![GitHub repo size](https://img.shields.io/github/repo-size/openai/openai-python)
+![GitHub stars](https://img.shields.io/github/stars/openai/openai-python?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/HeFells/HeFells)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 
